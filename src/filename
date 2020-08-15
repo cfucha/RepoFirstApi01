@@ -34,7 +34,7 @@
                 ],
                 "responses": {
                     "200": {
-                        "description": "Details about a user",
+                        "description": "Detalles acerca del usuario",
                         "headers": {
                             "x-next": {
                                 "description": "A link to the next page of responses",
